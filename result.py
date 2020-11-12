@@ -17,5 +17,6 @@ def new_report(testreport):
     lists.sort(key=lambda fn: os.path.getmtime(testreport + '\\' + fn))
     file_new = os.path.join(testreport,lists[-1])
     print(file_new)
+    print(‘为了看不同’)
     return file_new
 
