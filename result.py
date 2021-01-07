@@ -28,7 +28,7 @@ def send_mail(file_new):
     mail_user = '787277927@qq.com'
     mail_password = ''
     # 发送邮箱
-    sender = '787277927@qq.com'
+    sender = ''
     # 接收邮箱
     receiver = 'lili.geng@pactera.com'
 
