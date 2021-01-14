@@ -24,8 +24,8 @@ def new_report(testreport):
 def send_mail(file_new):
     # 发送邮箱服务器
     smtpserver = ''
-    # 发送邮箱用户/密码
-    mail_user = '15@163.com'
+    # 发送邮箱用户/
+    mail_user = '151231@163.com'
     mail_password = ''
     # 发送邮箱
     sender = ''
