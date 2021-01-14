@@ -26,7 +26,7 @@ def send_mail(file_new):
     smtpserver = ''
     # 发送邮箱用户/
     mail_user = '151231@163.com'
-    mail_password = ''
+    mail_password = '123123'
     # 发送邮箱
     sender = ''
     # 接收邮箱
